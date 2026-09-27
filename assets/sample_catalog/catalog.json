@@ -1,0 +1,56 @@
+{
+  "updated_at": "2026-09-27",
+  "anime": [
+    {
+      "id": 1,
+      "anilist_id": 21519,
+      "added_date": "2026-09-20",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "video_type": "youtube",
+          "youtube_id": "L_LUpnjgPso",
+          "source_channel": "Muse Indonesia"
+        },
+        {
+          "episode_number": 2,
+          "video_type": "direct",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "source_channel": "Video Uji Open Source"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "anilist_id": 20,
+      "added_date": "2026-09-21",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "video_type": "youtube",
+          "youtube_id": "dQw4w9WgXcQ",
+          "source_channel": "Official Channel"
+        },
+        {
+          "episode_number": 2,
+          "video_type": "direct",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "source_channel": "Video Uji Open Source"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "anilist_id": 1,
+      "added_date": "2026-09-22",
+      "episodes": [
+        {
+          "episode_number": 1,
+          "video_type": "direct",
+          "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "source_channel": "Video Uji Open Source"
+        }
+      ]
+    }
+  ]
+}

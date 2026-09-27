@@ -1,0 +1,31 @@
+# Flutter / Dart build and tool artifacts
+.dart_tool/
+.build/
+.pub-cache/
+.pub/
+build/
+ephemeral/
+
+# Android
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# iOS / macOS
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+macos/.symlinks/
+
+# Symbol files
+*.pot
+*.omc
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db

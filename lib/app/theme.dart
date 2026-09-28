@@ -67,7 +67,7 @@ class AppTheme {
           ),
         ),
       ),
-      dialogTheme: DialogTheme(
+      dialogTheme: DialogThemeData(
         backgroundColor: surface2,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(radiusDialog),

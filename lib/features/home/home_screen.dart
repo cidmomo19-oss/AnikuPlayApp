@@ -2,7 +2,6 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../app/theme.dart';
-import '../../data/models/catalog_entry.dart';
 import '../../widgets/anime_card.dart';
 import '../../widgets/shimmer_card.dart';
 import '../detail/detail_screen.dart';
